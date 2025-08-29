@@ -1,5 +1,5 @@
 
-# AmitProject - Dashboard Produits 
+# Dashboard Produits 
 
 (Dans ce petit projet, j’ai essayé de comprendre la logique de Streamlit.)
 
